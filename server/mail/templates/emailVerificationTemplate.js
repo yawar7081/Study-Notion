@@ -94,13 +94,6 @@ const otpTemplate = (otp) => {
 					src="https://i.ibb.co/7Xyj3PC/logo.png" alt="StudyNotion Logo"></a>
      <p class="mohammad">MOHAMMAD<span class="fancy"> YAWAR </span>RAZA</p>
 			<div class="message">OTP Verification Email</div>
-			<div class="body">
-   				<div>
-  <h2>I'm <span style="--i:0;" data-text="Developer.">Developer.</span>
-    <span style="--i:1;" data-text="Designer.">Designer.</span>
-    <span style="--i:2;" data-text="Creator.">Creator.</span>
-  </h2>
-</div>
 				<p>Dear User, </p>
 				<p>Thank you for registering with StudyNotion. To complete your registration, please use the following OTP
 					(One-Time Password) to verify your account:</p>
